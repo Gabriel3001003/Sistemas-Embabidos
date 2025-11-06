@@ -1,0 +1,86 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2025-11-05T14:33:02.050790Z",
+        "data": "GENESIS",
+        "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "hash": "c5fecb05a9afa8dd66c6eba7530de3988618ef3da72510cce3f2e408fb035c7b"
+    },
+    {
+        "index": 1,
+        "timestamp": "2025-11-05T14:33:02.076540Z",
+        "data": "{\"humedad_%\": 25.65, \"lat\": 19.060817, \"lon\": -100.156256, \"qr\": \"SKU-12345-PRUEBA\", \"temperatura_C\": 14.75, \"timestamp\": \"2025-11-05T14:33:02.051880Z\"}",
+        "prev_hash": "c5fecb05a9afa8dd66c6eba7530de3988618ef3da72510cce3f2e408fb035c7b",
+        "hash": "9400fafe63a295b63bcea8e12828b5a1094a89c751c02714a808e0b5335a6fa8"
+    },
+    {
+        "index": 2,
+        "timestamp": "2025-11-05T14:43:40.138206Z",
+        "data": "{\"humedad_%\": 35.29, \"lat\": 19.415002, \"lon\": -99.750268, \"qr\": \"SKU-12345-PRUEBA\", \"temperatura_C\": 13.52, \"timestamp\": \"2025-11-05T14:43:40.093519Z\"}",
+        "prev_hash": "9400fafe63a295b63bcea8e12828b5a1094a89c751c02714a808e0b5335a6fa8",
+        "hash": "e4819e7fb8a1f12c93ef69201e15296b6d1e87c1feaa6c245606a9a4b72a3346"
+    },
+    {
+        "index": 3,
+        "timestamp": "2025-11-06T13:39:08.923416Z",
+        "data": "{\"humedad_%\": 38.01, \"lat\": 20.481621, \"lon\": -99.524979, \"qr_payload\": {\"batch\": \"2025-11-01\", \"issuer\": \"FABRICA_X\", \"serial\": \"0001\", \"sku\": \"ABC123\"}, \"temperatura_C\": 29.78, \"timestamp\": \"2025-11-06T13:39:08.918895Z\"}",
+        "prev_hash": "e4819e7fb8a1f12c93ef69201e15296b6d1e87c1feaa6c245606a9a4b72a3346",
+        "hash": "37d8aac98cc7b8262223236530cf0bcd3d6020234128778efb26a4b334bb3d8e"
+    },
+    {
+        "index": 4,
+        "timestamp": "2025-11-06T13:43:37.359656Z",
+        "data": "{\"humedad_%\": 26.1, \"lat\": 20.473371, \"lon\": -99.961445, \"qr_payload\": {\"batch\": \"2025-11-01\", \"issuer\": \"FABRICA_X\", \"serial\": \"0001\", \"sku\": \"ABC123\"}, \"temperatura_C\": 2.16, \"timestamp\": \"2025-11-06T13:43:37.358142Z\"}",
+        "prev_hash": "37d8aac98cc7b8262223236530cf0bcd3d6020234128778efb26a4b334bb3d8e",
+        "hash": "4a9a036ceff9d81017a5a56882ff67a00a9d08b1d71f693c5dd201472a5b6295"
+    },
+    {
+        "index": 5,
+        "timestamp": "2025-11-06T18:18:12.316422Z",
+        "data": "{\"humedad_%\": 77.07, \"lat\": 19.26022, \"lon\": -100.200529, \"qr_payload\": {\"batch\": \"2025-11-01\", \"issuer\": \"FABRICA_X\", \"serial\": \"0001\", \"sku\": \"ABC123\"}, \"temperatura_C\": 10.54, \"timestamp\": \"2025-11-06T18:18:12.315424Z\"}",
+        "prev_hash": "4a9a036ceff9d81017a5a56882ff67a00a9d08b1d71f693c5dd201472a5b6295",
+        "hash": "6ba21769f70c31ecacbae34ade53adac39038d75f43f7e81c57d83cf3af4c935"
+    },
+    {
+        "index": 6,
+        "timestamp": "2025-11-06T18:53:43.524497Z",
+        "data": "{\"humedad_%\": 47.02, \"lat\": 20.090026, \"lon\": -99.999565, \"qr_payload\": {\"batch\": \"2025-11-01\", \"issuer\": \"FABRICA_X\", \"serial\": \"0001\", \"sku\": \"ABC123\"}, \"temperatura_C\": 15.99, \"timestamp\": \"2025-11-06T18:53:43.523498Z\"}",
+        "prev_hash": "6ba21769f70c31ecacbae34ade53adac39038d75f43f7e81c57d83cf3af4c935",
+        "hash": "9bf4b8e352e79d72a98aa563c714edf86d8dea2851052d0cee1a5c0cb027d7df"
+    },
+    {
+        "index": 7,
+        "timestamp": "2025-11-06T18:54:13.151118Z",
+        "data": "{\"humedad_%\": 76.43, \"lat\": 19.011013, \"lon\": -100.17747, \"qr_payload\": {\"batch\": \"2025-11-01\", \"issuer\": \"FABRICA_X\", \"serial\": \"0001\", \"sku\": \"ABC123\"}, \"temperatura_C\": 20.48, \"timestamp\": \"2025-11-06T18:54:13.149923Z\"}",
+        "prev_hash": "9bf4b8e352e79d72a98aa563c714edf86d8dea2851052d0cee1a5c0cb027d7df",
+        "hash": "fedb73b1ecfcaca74aa0a4591c7d2d43337f3809ff8146ed5a1f79c1de30d514"
+    },
+    {
+        "index": 8,
+        "timestamp": "2025-11-06T18:55:48.254124Z",
+        "data": "{\"humedad_%\": 55.08, \"lat\": 19.399277, \"lon\": -99.909096, \"qr_payload\": {\"index\": 7, \"issued_at\": \"2025-11-06T18:54:13.168541Z\", \"prev_hash\": \"fedb73b1ecfcaca74aa0a4591c7d2d43337f3809ff8146ed5a1f79c1de30d514\"}, \"temperatura_C\": 25.55, \"timestamp\": \"2025-11-06T18:55:48.253615Z\"}",
+        "prev_hash": "fedb73b1ecfcaca74aa0a4591c7d2d43337f3809ff8146ed5a1f79c1de30d514",
+        "hash": "5a1e6e81af430e441508e499a3b2187f52c09fd40eec213df9fec9fa4d57b10e"
+    },
+    {
+        "index": 9,
+        "timestamp": "2025-11-06T18:56:27.646462Z",
+        "data": "{\"humedad_%\": 84.01, \"lat\": 19.100597, \"lon\": -101.387731, \"qr_payload\": {\"index\": 8, \"issued_at\": \"2025-11-06T18:55:48.256465Z\", \"prev_hash\": \"5a1e6e81af430e441508e499a3b2187f52c09fd40eec213df9fec9fa4d57b10e\"}, \"temperatura_C\": 26.89, \"timestamp\": \"2025-11-06T18:56:27.645458Z\"}",
+        "prev_hash": "5a1e6e81af430e441508e499a3b2187f52c09fd40eec213df9fec9fa4d57b10e",
+        "hash": "57ddcba5d7a53ae3fe6a99effd7b281180fed8a4999633572d8e5fa9af38bc3a"
+    },
+    {
+        "index": 10,
+        "timestamp": "2025-11-06T18:58:22.350183Z",
+        "data": "{\"humedad_%\": 84.28, \"lat\": 20.355747, \"lon\": -100.263171, \"qr_payload\": {\"index\": 9, \"issued_at\": \"2025-11-06T18:56:27.648751Z\", \"prev_hash\": \"57ddcba5d7a53ae3fe6a99effd7b281180fed8a4999633572d8e5fa9af38bc3a\"}, \"temperatura_C\": 28.58, \"timestamp\": \"2025-11-06T18:58:22.350183Z\"}",
+        "prev_hash": "57ddcba5d7a53ae3fe6a99effd7b281180fed8a4999633572d8e5fa9af38bc3a",
+        "hash": "0753446b53ee930fcf45dd781fccbb738590b107b0baa86a765908f5574998a0"
+    },
+    {
+        "index": 11,
+        "timestamp": "2025-11-06T18:58:55.802162Z",
+        "data": "{\"humedad_%\": 49.52, \"lat\": 19.249668, \"lon\": -100.667188, \"qr_payload\": {\"index\": 10, \"issued_at\": \"2025-11-06T18:58:22.353554Z\", \"prev_hash\": \"0753446b53ee930fcf45dd781fccbb738590b107b0baa86a765908f5574998a0\"}, \"temperatura_C\": 19.17, \"timestamp\": \"2025-11-06T18:58:55.801166Z\"}",
+        "prev_hash": "0753446b53ee930fcf45dd781fccbb738590b107b0baa86a765908f5574998a0",
+        "hash": "23c9bd0a4345aa030e72a3aa69b0f8690b9f32a74c459f34d35593fc31e1cdc9"
+    }
+]
